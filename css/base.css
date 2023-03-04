@@ -1,0 +1,31 @@
+:root {
+  --white-color: #fff;
+  --black-color: black;
+  --text-color: #333;
+  --titleGreen-color: #00833e;
+  --green-color: #086434;
+  --yellow-color: #ffc708;
+  --blue-color: #007aff;
+  --violet-color: #ac4cbc;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+html {
+  font-size: 62.5%;
+  line-height: 1.6rem;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+ 
+}
+.grip{
+  width: 1440px;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.grip__row{
+  display: flex;
+  flex-wrap: wrap;
+}
