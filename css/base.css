@@ -21,8 +21,8 @@ html {
  
 }
 .grip{
-  width: 1440px;
-  max-width: 1440px;
+   /* width: 1440px;  */
+  max-width: 1440px; 
   margin: 0 auto;
 }
 .grip__row{
